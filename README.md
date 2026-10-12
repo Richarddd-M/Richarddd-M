@@ -1,4 +1,4 @@
-## Hi, I’m Richard — software developer, problem-solver, and tech enthusiast.<br/>
+## Hi, I’m Richard  software developer, problem solver, and tech enthusiast.<br/>
 
  💬I build full-stack solutions with a strong focus on clean architecture, scalability, and real-world impact. Whether it’s developing APIs with ASP.NET Core and SQL Server, crafting responsive UIs with Flutter and MudBlazor, or building systems like point-of-sale apps, service portals, and payroll platforms. <br/>
  
