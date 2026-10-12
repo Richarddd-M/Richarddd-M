@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏾‍💻 About Me:
 Hey there! 
 
 👋 I'm Richard Mutakwa, a Software Developer and aspiring Data Scientist based in Lusaka, Zambia 🇿🇲
